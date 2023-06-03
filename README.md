@@ -14,3 +14,4 @@ Finished:
     Simple Factory
     Factory Method
     Abstract Factory
+    Builder Mode
