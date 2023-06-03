@@ -6,7 +6,7 @@
 
 // Let's define some more specific products, I choose Phone, Watch
 pub trait Phone {
-    // To be simple,this phone can only call
+    // To be simple,this phone can only be used to call
     fn call(&self);
 }
 
